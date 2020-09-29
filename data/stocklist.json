@@ -1,0 +1,7475 @@
+[
+    {
+        "code": "AALI",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "LSIP",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "BWPT",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "SIMP",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "SMAR",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "SSMS",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "SGRO",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },  
+    {
+        "code": "UNSP",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    }, 
+    {
+        "code": "MGRO",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "PALM",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "DSNG",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "ANJT",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "JAWA",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "PSGO",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "CSRA",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "BISI",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "BEEF",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "DSFI",
+        "caps": [],
+        "sector": [
+            "pertanian"
+        ],
+        "index": [
+            "AGRI"
+        ]
+    },
+    {
+        "code": "MNCN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SCMA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ABBA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "FILM",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "VIVA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "IPTV",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "LINK",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MSIN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "JTPE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DMMX",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KBLV",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TMPO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MDIA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MARI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MSKY",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "LPLI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Advertising, Printing & Media"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BMTR",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MLPL",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BHIT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SRTG",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KREN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BNBR",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "POOL",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PEGE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PLAS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "NICK",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perusahaan Investasi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "LPPF",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ERAA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ACES",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MAPI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "RALS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TELE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MPPA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "AMRT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MCAS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MAPA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HERO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "GLOB",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SKYB",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MKNT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "RANC",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "NFCX",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KIOS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DIVA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TRIO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CSAP",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MIDI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ECII",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DAYA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KOIN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SONA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Eceran"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "UNTR",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "AKRA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MPMX",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HEXA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KOBX",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HKMU",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KAYU",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CLPI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "LTLS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "IRRA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DWGL",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CARS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CNKO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BOGA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "OPMS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "OKAS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SPTO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BMSR",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TFAS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TGKA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MICE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "EPMT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MDRN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "INTA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BLUE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "WICO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "WAPO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DPUM",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "FISH",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TURI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SDPC",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TIRA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "INTD",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "APII",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KONI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HADE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ZBRA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PMJS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HDIT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "INPS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "GREN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "AIMS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SQMI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "AGAR",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "AYLS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan Besar Barang Produksi"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MTDL",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ENVY",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "LUCK",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ASGR",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "LMAS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MLPT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DNET",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ATIC",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "GLVA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CASH",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "TECH",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Jasa Komputer & Perangkatnya"
+        ],
+        "index": [
+            "TRADE",
+            "PENNY"
+        ]
+    },
+    {
+        "code": "MAMI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HOME",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "IKAI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PZZA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "NUSA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "FAST",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "KPIG",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "EAST",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MAPB",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DUCK",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HRME",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PJAA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MINA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "NATO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CLAY",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PANR",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "AKKU",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "FITT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BUVA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },  
+    {
+        "code": "INPP",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DFAM",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ICON",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PGLI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BAYU",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ARTA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HOTL",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "JIHD",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "NASA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SOTS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PDES",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "JSPT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PSKT",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PNSE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PUDP",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "ESTA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },   
+    {
+        "code": "SHID",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CSMI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Restoran, Hotel & Pariwisata"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "DYAN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "BOLA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "YELO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SIMA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ITMA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MFMI",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SOSS",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "INDX",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "GEMA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SFAN",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },    
+    {
+        "code": "RONY",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Perdagangan, Jasa, dan Investasi Lainnya"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SILO",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "KOMPAS100",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "MIKA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PRDA",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "HEAL",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "CARE",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SAME",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PRIM",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "SRAJ",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "OCAP",
+        "caps": [],
+        "sector": [
+            "Perdagangan, Jasa, dan Investasi",
+            "Rumah Sakit"
+        ],
+        "index": [
+            "TRADE"
+        ]
+    },
+    {
+        "code": "PNIN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "MTWI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "ASJT",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "VINS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "LIFE",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "LPGI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "AHAP",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "ASMI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "ASRM",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "ASBI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "AMAG",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "ASDM",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "ABDA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "JMAS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "TUGU",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BHAT",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Asuransi"
+        ],
+        "index": ["PENNY"]
+    },
+    {
+        "code": "ADMF",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "WOMF",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "IMJS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BFIN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "FINN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "CFIN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "MFIN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "POLA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "FUJI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "TIFA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "HDFA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "VRNA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BBLD",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },  
+    {
+        "code": "DEFI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "TRUS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "IBFN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Lembaga Pembiayaan"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BBRI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "FINANCE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "BBCA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BMRI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "FINANCE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "BBNI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "FINANCE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "BBTN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "FINANCE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "BTPS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BJTM",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "KOMPAS100",
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BRIS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BNLI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "KOMPAS100",
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BJBR",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "KOMPAS100",
+            "FINANCE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "BNGA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "KOMPAS100",
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BDMN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "AGRO",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BTPN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BBKP",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BEKS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "PNBS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "PNBN",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "KOMPAS100",
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BNII",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "MCOR",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BGTG",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "MEGA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "NISP",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "ARTO",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BSIM",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BABP",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BBHI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "MAYA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "INPC",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BVIC",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BINA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "AGRS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BNBA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "NOBU",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BBYB",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BACA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BMAS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "SDRA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BKSW",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "DNAR",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BCIC",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BSWD",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },    
+    {
+        "code": "BBMD",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "AMAR",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Bank"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "PANS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Perusahaan Efek"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "PADI",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Perusahaan Efek"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "TRIM",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Perusahaan Efek"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "YULE",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Perusahaan Efek"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "PNLF",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "KOMPAS100",
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BCAP",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "LPPS",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "APIC",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "CASA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "VICO",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "BPII",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "GSMF",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "SMMA",
+        "caps": [],
+        "sector": [
+            "Keuangan",
+            "Keuangan Lainnya"
+        ],
+        "index": [
+            "FINANCE"
+        ]
+    },
+    {
+        "code": "INDF",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ICBP",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MYOR",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BISNIS27",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ULTJ",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CLEO",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "KOMPAS100",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "HOKI",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "KOMPAS100",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "GOOD",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ROTI",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TBLA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "code": "AISA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CAMP",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CEKA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "FOOD",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "IIKP",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ADES",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MLBI",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BUDI",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "DLTA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "STTP",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BTEK",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },   
+    {
+        "code": "PANI",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PCAR",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SKLT",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ALTO",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MGNA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "code": "KEJU",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "code": "DMND",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "code": "IKAN",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Makanan & Minuman"
+        ],
+        "index": [
+            "CONSUMER",
+            "PENNY"
+        ]
+    },
+    {
+        "code": "KLBF",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SIDO",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "KOMPAS100",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KAEF",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "INAF",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MERK",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TSPC",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "DVLA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PEHA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PYFA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SCPI",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Farmasi"
+        ],
+        "index": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "code": "GGRM",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Rokok"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "HMSP",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Rokok"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "WIIM",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Rokok"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ITIC",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Rokok"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "RMBA",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Rokok"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "UNVR",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Kosmetik & Barang Keperluan Rumah Tangga"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KINO",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Kosmetik & Barang Keperluan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KPAS",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Kosmetik & Barang Keperluan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MRAT",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Kosmetik & Barang Keperluan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TCID",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Kosmetik & Barang Keperluan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MBTO",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Kosmetik & Barang Keperluan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "WOOD",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Peralatan Rumah Tangga"
+        ],
+        "index": [
+            "KOMPAS100",
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KICI",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Peralatan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CINT",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Peralatan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CBMF",
+        "caps": [],
+        "sector": [
+            "Industri Barang Konsumsi",
+            "Peralatan Rumah Tangga"
+        ],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "WSKT",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "WIKA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "PROPERTY",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "ADHI",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "PTPP",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "PROPERTY",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "WEGE",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "SSIA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "TOTL",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "NRCA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "ACST",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "TOPS",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "CSIS",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "SKRN",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "DGIK",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "IDPR",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "JKON",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "PBSA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MTRA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "TAMA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate",
+            "Konstruksi Bangunan"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "CTRA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "PWON",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BSDE",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "SMRA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "PPRO",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "KIJA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "APLN",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BKSL",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "ASRI",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "LPKR",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "DMAS",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BEST",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "LPCK",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MDLN",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "POSA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MYRX",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "JRPT",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "KOMPAS100",
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BCIP",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "RIMO",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "ELTY",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "RBMS",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "PAMG",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "DILD",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "CPRI",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "GPRA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MABA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BAPI",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "POLL",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "ARMY",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "PLIN",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "RODA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BAPA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "GAMA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "TARA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MMLP",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "LCGP",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "FORZ",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MPRO",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "GWSA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "KOTA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MTLA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "LAND",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "NZIA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "URBN",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "RISE",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "CITY",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BKDP",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "DUTI",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "RDTX",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "MTSM",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "SATU",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "SMDM",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BIPP",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "COWL",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "DART",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "NIRO",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BIKA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "EMDE",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "FMII",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },  
+    {
+        "code": "POLI",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "REAL",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "INDO",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "TRIN",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "DADA",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "ASPI",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "AMAN",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "KBAG",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "BBSS",
+        "caps": [],
+        "sector": [
+            "Properti dan Real Estate"
+        ],
+        "index": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "code": "SRIL",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "INDR",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "UCID",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND"
+        ]
+    },
+    {
+        "code": "POLY",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "STAR",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PBRX",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "POLU",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ESTI",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BELL",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TRIS",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ZONE",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "RICY",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MYTX",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ERTX",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ARGO",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND"
+        ]
+    },   
+    {
+        "code": "UNIT",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SBAT",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Tekstil & Garmen"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ASII",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "GJTL",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "AUTO",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "IMAS",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SMSM",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "KOMPAS100",
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MASA",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "INDS",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "GDYR",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BRAM",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BOLT",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "LPIN",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PRAS",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Otomotif & Komponennya"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BATA",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Alas Kaki"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BIMA",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Alas Kaki"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KBLI",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Kabel"
+        ],
+        "index": [
+            "KOMPAS100",
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CCSI",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Kabel"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KBLM",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Kabel"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "VOKS",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Kabel"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SCCO",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Kabel"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "JECC",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Kabel"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "IKBI",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Kabel"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PTSN",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Elektronika"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "JSKY",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Elektronika"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SLIS",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Elektronika"
+        ],
+        "index": [
+            "MISCIND"
+        ]
+    },
+    {
+        "code": "GMFI",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Mesin dan Alat Berat"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KPAL",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Mesin dan Alat Berat"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "AMIN",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Mesin dan Alat Berat"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ARKA",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Mesin dan Alat Berat"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KRAH",
+        "caps": [],
+        "sector": [
+            "Aneka Industri",
+            "Mesin dan Alat Berat"
+        ],
+        "index": [
+            "MISCIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ADRO",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27"
+        ]
+    },
+    {
+        "code": "PTBA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27"
+        ]
+    },
+    {
+        "code": "ITMG",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "HRUM",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "INDY",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "BUMI",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "PTRO",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "TRAM",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "DOID",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "MYOH",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "FIRE",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "DEWA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "MBAP",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "BOSS",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "SMMT",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "TOBA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "BYAN",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "SMRU",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "KKGI",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "BSSR",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "GTBO",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "DSSA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "ARII",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },  
+    {
+        "code": "GEMS",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu Bara"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "ANTM",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "INCO",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "TINS",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "MDKA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "LQ45",
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "PSAB",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "BRMS",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "ZINC",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "DKFT",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "CITA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "CKRA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Logam & Mineral Lainnya"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "MEDC",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "ELSA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING",
+            "KOMPAS100",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "ESSA",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "code": "ENRG",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "BIPI",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "ARTI",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "PKPK",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },    
+    {
+        "code": "APEX",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "RUIS",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "SURE",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "MTFN",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Minyak & Gas Bumi"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "CTTH",
+        "caps": [],
+        "sector": [
+            "Pertambangan",
+            "Batu-batuan"
+        ],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "GIAA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "KOMPAS100",
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "SOCI",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "MBSS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BULL",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "LEAD",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "SMDR",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "DEAL",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BIRD",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TCPI",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "PSSI",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "ASSA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "KOMPAS100",
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TMAS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TAXI",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "RIGS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "CMPP",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "JAYA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "SDMU",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TAMU",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TRUK",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "IPCM",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "SHIP",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "IATA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "AKSI",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "HELI",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "WINS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TPMA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "LRNA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "NELY",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "WEHA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TNCA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BBRM",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "PORT",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BPTR",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },  
+    {
+        "code": "HITS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    }, 
+    {
+        "code": "SAPX",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "MIRA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "SAFE",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "PURA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BESS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Transportasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "JSMR",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Jalan Tol, Pelabuhan, Bandara & Sejenisnya"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "INFRASTRUCTURE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "IPCC",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Jalan Tol, Pelabuhan, Bandara & Sejenisnya"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "META",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Jalan Tol, Pelabuhan, Bandara & Sejenisnya"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "CMNP",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Jalan Tol, Pelabuhan, Bandara & Sejenisnya"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "KARW",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Jalan Tol, Pelabuhan, Bandara & Sejenisnya"
+        ],
+        "index": [
+            "INFRASTRUCTURE",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CASS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Jalan Tol, Pelabuhan, Bandara & Sejenisnya"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TEBE",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Jalan Tol, Pelabuhan, Bandara & Sejenisnya"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TLKM",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Telekomunikasi"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "INFRASTRUCTURE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "EXCL",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Telekomunikasi"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "FREN",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Telekomunikasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "ISAT",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Telekomunikasi"
+        ],
+        "index": [
+            "KOMPAS100",
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "JAST",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Telekomunikasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BTEL",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Telekomunikasi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TOWR",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TBIG",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "PPRE",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "CENT",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "MTPS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BUKK",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "GOLD",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "BALI",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "GHON",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "OASA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "IBST",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "LCKM",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "SUPR",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "PTPW",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Konstruksi Non Bangunan"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "PGAS",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Energi"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "INFRASTRUCTURE",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "RAJA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Energi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "POWR",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Energi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "TGRA",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Energi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "KEEN",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Energi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "MPOW",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Energi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "LAPD",
+        "caps": [],
+        "sector": [
+            "Infrastruktur",
+            "Energi"
+        ],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    },
+    {
+        "code": "FPNI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "IPOL",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "IGAR",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PBID",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "APLI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SMKL",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "AKPI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "YPAS",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "IMPC",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BRNA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TALF",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TRST",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ESIP",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Plastik & Kemasan"
+        ],
+        "index": [
+            "BASICIND"
+        ]
+    },
+    {
+        "code": "INKP",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TKIM",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SWAT",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "FASW",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KDSI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SPMA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },  
+    {
+        "code": "INRU",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KBRI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pulp & Kertas"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KRAS",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "NIKL",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ISSP",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BTON",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BAJA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "GDST",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "PICO",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "INAI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ALKA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "LION",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TBMS",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ALMI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "LMSH",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "JKSW",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CTBN",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "GGRP",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND"
+        ]
+    },
+    {
+        "code": "PURE",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Logam & Sejenisnya"
+        ],
+        "index": [
+            "BASICIND"
+        ]
+    },
+    {
+        "code": "CAKK",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Keramik, Porselen & Kaca"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TOTO",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Keramik, Porselen & Kaca"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MARK",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Keramik, Porselen & Kaca"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ARNA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Keramik, Porselen & Kaca"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KIAS",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Keramik, Porselen & Kaca"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MLIA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Keramik, Porselen & Kaca"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "AMFG",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Keramik, Porselen & Kaca"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "BRPT",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TPIA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "EKAD",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ADMG",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SRSN",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "AGII",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TDPM",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MDKI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "UNIC",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "INCI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MOLI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "ETWA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "DPNS",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SAMF",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kimia"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "JPFA",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pakan Ternak"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CPIN",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pakan Ternak"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "MAIN",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pakan Ternak"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "CPRO",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pakan Ternak"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SIPD",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Pakan Ternak"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SMGR",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Semen"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "BASICIND",
+            "MANUFACTUR",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "INTP",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Semen"
+        ],
+        "index": [
+            "LQ45",
+            "KOMPAS100",
+            "BISNIS27",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "WSBP",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Semen"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "WTON",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Semen"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR",
+            "IDXBUMN20"
+        ]
+    },
+    {
+        "code": "SMBR",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Semen"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SMCB",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Semen"
+        ],
+        "index": [
+            "KOMPAS100",
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SULI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kayu & Pengolahannya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "TIRT",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kayu & Pengolahannya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "SINI",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kayu & Pengolahannya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "IFII",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Kayu & Pengolahannya"
+        ],
+        "index": [
+            "BASICIND"
+        ]
+    },
+    {
+        "code": "KMTR",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Industri Dasar dan Kimia Lainnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "INCF",
+        "caps": [],
+        "sector": [
+            "Industri Dasar Kimia",
+            "Industri Dasar dan Kimia Lainnya"
+        ],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "WOWS",
+        "caps": [],
+        "sector": [],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "IFSH",
+        "caps": [],
+        "sector": [],
+        "index": [
+            "MINING"
+        ]
+    },
+    {
+        "code": "INOV",
+        "caps": [],
+        "sector": [],
+        "index": [
+            "BASICIND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "HRTA",
+        "caps": [],
+        "sector": [],
+        "index": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "code": "KOPI",
+        "caps": [],
+        "sector": [],
+        "index": [
+            "INFRASTRUCTURE"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "macd": {
+    "period": 2,
+    "n_fast": 12,
+    "n_slow": 26,
+    "n_sign": 9
+  },
+  "donchian": {
+    "n": 20
+  },
+  "rsi": {
+    "overbought": 70,
+    "oversold": 30,
+    "n": 14
+  },
+  "stochastic": {
+    "overbought": 80,
+    "oversold": 20,
+    "n": 14,
+    "d_n": 3
+  },
+  "adx": {
+    "period": 5,
+    "n": 14
+  }
+}
