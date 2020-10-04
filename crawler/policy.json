@@ -1,0 +1,154 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+      {
+          "Sid": "VisualEditor0",
+          "Effect": "Allow",
+          "Action": [
+              "iam:GenerateCredentialReport",
+              "iam:GetAccountPasswordPolicy",
+              "iam:GetServiceLastAccessedDetailsWithEntities",
+              "iam:ListServerCertificates",
+              "logs:DescribeLogStreams",
+              "iam:GenerateServiceLastAccessedDetails",
+              "iam:ListPoliciesGrantingServiceAccess",
+              "iam:GetServiceLastAccessedDetails",
+              "iam:ListVirtualMFADevices",
+              "iam:GetOrganizationsAccessReport",
+              "iam:SetSecurityTokenServicePreferences",
+              "iam:SimulateCustomPolicy",
+              "iam:CreateAccountAlias",
+              "logs:FilterLogEvents",
+              "iam:GetAccountAuthorizationDetails",
+              "iam:DeleteAccountAlias",
+              "iam:GetCredentialReport",
+              "cloudformation:List*",
+              "iam:ListPolicies",
+              "iam:DeleteAccountPasswordPolicy",
+              "iam:ListSAMLProviders",
+              "logs:DescribeLogGroups",
+              "lambda:List*",
+              "iam:ListRoles",
+              "lambda:Get*",
+              "cloudwatch:GetMetricStatistics",
+              "iam:GetContextKeysForCustomPolicy",
+              "iam:UpdateAccountPasswordPolicy",
+              "iam:ListOpenIDConnectProviders",
+              "lambda:*",
+              "iam:ListAccountAliases",
+              "iam:ListUsers",
+              "iam:ListGroups",
+              "cloudformation:ValidateTemplate",
+              "iam:GetAccountSummary",
+              "cloudformation:Get*"
+          ],
+          "Resource": "*"
+      },
+      {
+          "Sid": "VisualEditor1",
+          "Effect": "Allow",
+          "Action": [
+              "s3:PutAccelerateConfiguration",
+              "s3:ListBucketVersions",
+              "s3:CreateBucket",
+              "s3:ListBucket",
+              "s3:PutEncryptionConfiguration",
+              "apigateway:DELETE",
+              "s3:GetEncryptionConfiguration",
+              "iam:PassRole",
+              "logs:CreateLogStream",
+              "apigateway:PATCH",
+              "cloudformation:UpdateStack",
+              "lambda:DeleteFunction",
+              "apigateway:GET",
+              "s3:DeleteBucket",
+              "lambda:InvokeFunction",
+              "apigateway:PUT",
+              "logs:DeleteLogGroup",
+              "lambda:Update*",
+              "logs:CreateLogGroup",
+              "events:Delete*",
+              "lambda:AddPermission",
+              "cloudformation:CreateStack",
+              "cloudformation:DeleteStack",
+              "lambda:PublishVersion",
+              "apigateway:POST",
+              "lambda:RemovePermission",
+              "s3:GetBucketLocation",
+              "lambda:CreateAlias"
+          ],
+          "Resource": [
+              "arn:aws:events:*:*:rule/crawler-dev-ap-southeast-1*",
+              "arn:aws:lambda:ap-southeast-1:*:function:crawler-dev-*",
+              "arn:aws:cloudformation:ap-southeast-1:*:stack/crawler-dev/*",
+              "arn:aws:apigateway:*::/restapis*",
+              "arn:aws:apigateway:*::/apikeys*",
+              "arn:aws:apigateway:*::/usageplans*",
+              "arn:aws:iam::*:role/*",
+              "arn:aws:logs:ap-southeast-1:*:*",
+              "arn:aws:s3:::crawler*serverlessdeploy*"
+          ]
+      },
+      {
+          "Sid": "VisualEditor2",
+          "Effect": "Allow",
+          "Action": [
+              "s3:PutObject",
+              "s3:GetObject",
+              "events:DescribeRule",
+              "s3:DeleteObject",
+              "logs:PutLogEvents"
+          ],
+          "Resource": [
+              "arn:aws:logs:ap-southeast-1:*:*",
+              "arn:aws:events:ap-southeast-1:*:rule/crawler-dev-*",
+              "arn:aws:s3:::crawler*serverlessdeploy*"
+          ]
+      },
+      {
+          "Sid": "VisualEditor3",
+          "Effect": "Allow",
+          "Action": "iam:*",
+          "Resource": [
+              "arn:aws:iam::*:role/crawler-dev-ap-southeast-1-role",
+              "arn:aws:iam::797411396460:role/crawler-dev-ap-southeast-1-meta-role"
+          ]
+      },
+      {
+          "Sid": "VisualEditor4",
+          "Effect": "Allow",
+          "Action": [
+              "cloudformation:CreateUploadBucket",
+              "cloudformation:Describe*"
+          ],
+          "Resource": "arn:aws:cloudformation:ap-southeast-1:*:stack/crawler-dev/*"
+      },
+      {
+          "Sid": "VisualEditor5",
+          "Effect": "Allow",
+          "Action": "kinesis:*",
+          "Resource": "arn:aws:kinesis:*:*:stream/crawler-dev-ap-southeast-1"
+      },
+      {
+          "Sid": "VisualEditor6",
+          "Effect": "Allow",
+          "Action": "sqs:*",
+          "Resource": "arn:aws:sqs:*:*:crawler-dev-ap-southeast-1"
+      },
+      {
+          "Sid": "VisualEditor7",
+          "Effect": "Allow",
+          "Action": [
+              "events:Put*",
+              "events:Remove*"
+          ],
+          "Resource": "arn:aws:events:*:*:rule/crawler-dev-ap-southeast-1-rule"
+      },
+      {
+          "Sid": "VisualEditor8",
+          "Effect": "Allow",
+          "Action": "dynamodb:*",
+          "Resource": "arn:aws:dynamodb:*:*:table/*"
+      }
+  ]
+}

@@ -1,0 +1,25 @@
+app: crawler
+component: aws-lambda-cron
+stage: dev
+name: crawler-lambda
+
+package:
+  exclude:
+    - node_modules/**
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+
+
+inputs:  
+  region: 'ap-southeast-1'
+  name: ${app}-${stage}-ap-southeast-1
+  src: ./src/
+  schedule: cron(0 18 ? * MON-FRI *)
+
+
+functions:
+  stocks:
+    handler: handler.scrapMarketData
+  
