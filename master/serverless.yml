@@ -1,0 +1,15 @@
+app: master
+component: express
+name: master
+
+package:
+  exclude:
+    - node_modules/**
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+
+inputs:
+  src: ./
+  region: ap-southeast-1
