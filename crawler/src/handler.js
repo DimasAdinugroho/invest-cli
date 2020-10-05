@@ -1,8 +1,13 @@
 const fetch = require('node-fetch');
 const moment = require('moment');
 const _ = require('lodash');
+const AWS = require('aws-sdk');
+const asyncEvery = require('async/every');
+AWS.config.update({region: 'ap-southeast-1'});
+
 
 const { marketDataStruct } = require('./util');
+const dynamodb = new AWS.DynamoDB({apiVersion: '2012-08-10'});
 const currentDate = moment().format('YYYYMMDD');
 const idxBaseUrl = "https://www.idx.co.id/umbraco/Surface";
 const responseDefault = {
@@ -11,15 +16,8 @@ const responseDefault = {
   error: ''
 }
 
-const concat = (x, y) => x.concat(y)
-const flatMap = (f, xs) => xs.map(f).reduce(concat, [])
-if (Array.prototype.flatMap === undefined) {
-  Array.prototype.flatMap = function(f) {
-    return flatMap(f, this)
-  }
-}
-
-
+/* Generate Market URL
+*/
 const marketUrl = (page, date = currentDate) => {  
   let currentTime = new Date().getTime();
   if (page > 7 || page < 0) {
@@ -55,7 +53,7 @@ const scrapMarketData = async () => {
   let stockData = []
   await Promise.all(
     pages.map(page => {
-      let urlRes = marketUrl(page, '20201001')            
+      let urlRes = marketUrl(page)            
       if (urlRes.error === null) {
         return scrapData(urlRes.url)        
           .then(resp => {
@@ -71,11 +69,32 @@ const scrapMarketData = async () => {
 };
 
 
-// kalo mau nyoba
+/* Insert into DynamoDB 
+   batchWriteItem only have 25 maximum row so we need to make batch
+*/
+async function batchWriteDynamoDb(data) {
+  let arrayOf25 = _.chunk(data, 25);
+  asyncEvery(arrayOf25, (batch) => {
+    dynamodb.batchWriteItem({ RequestItems: { 'stock-table': batch }}, (err, _) => {
+      if (err) console.log(err)
+      else console.log('batch done')
+    })
+  })
+}
 
-// scrapMarketData()
-//   .then(data => console.log(data))
+
+const writeToDatabase = async () => {
+  try {
+    var data = await scrapMarketData();
+    await batchWriteDynamoDb(data)    
+    return 'success'
+  }
+  catch(e) {
+    console.log(e)
+  }
+}  
+
 
 module.exports = {
-  scrapMarketData,
+  writeToDatabase,
 };

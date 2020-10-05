@@ -3,26 +3,25 @@ const moment = require('moment');
 function marketDataStruct(rows) {
   return rows.map(row => {
     return {
-      Date: moment(row.Date).format("YYYY-MM-DD"),
-      Code: row.StockCode,
-      Name: row.StockName,
-      Previous: row.Previous,
-      High: row.High,
-      Low: row.Low,
-      Close: row.Close,
-      Volume: row.Volume,
-      Value: row.Value,
-      Change: row.Change,
-      Frequency: row.Frequency, 
-      Offer: row.Offer, 
-      OfferVolume: row.OfferVolume, 
-      Bid: row.Bid, 
-      BidVolume: row.BidVolume, 
-      ListedShares: row.ListedShares, 
-      ForeignSell: row.ForeignSell, 
-      ForeignBuy: row.ForeignBuy,
-      TotalForeign: parseFloat(row.ForeignBuy) - parseFloat(row.ForeignSell),
-      Percentage: (parseFloat(row.Change) / parseFloat(row.Previous) * 100).toFixed(2)
+      PutRequest: {
+        Item: {
+          date: {S : moment(row.Date).format("YYYY-MM-DD")},
+          name: {S: row.StockCode},
+          previous: { N: row.Previous.toString() },
+          high: { N: row.High.toString() },
+          low: { N: row.Low.toString() },
+          close: { N: row.Close.toString() },
+          vol: { N: row.Volume.toString() },
+          val: { N: row.Value.toString() },
+          chg: { N: row.Change.toString() },
+          freq: { N: row.Frequency.toString() },           
+          foreignSell: { N: row.ForeignSell.toString() }, 
+          foreignBuy: { N: row.ForeignBuy.toString() },
+          foreignTot: { N: (parseFloat(row.ForeignBuy) - parseFloat(row.ForeignSell)).toString() },
+          percentage: { S: (parseFloat(row.Change) / parseFloat(row.Previous) * 100).toFixed(2) }
+        }
+      }      
+      
     }
   })
 }
