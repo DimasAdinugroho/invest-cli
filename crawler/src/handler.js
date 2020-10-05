@@ -49,7 +49,7 @@ const scrapData = async (url) => {
 }
 
 const scrapMarketData = async () => {
-  let pages = [0, 1, 2, 3, 4, 5, 6, 7];
+  let pages = [0, 1, 2, 3, 4, 5, 6, 7];   // there are 7 total pages
   let stockData = []
   await Promise.all(
     pages.map(page => {
@@ -73,12 +73,14 @@ const scrapMarketData = async () => {
    batchWriteItem only have 25 maximum row so we need to make batch
 */
 async function batchWriteDynamoDb(data) {
-  let arrayOf25 = _.chunk(data, 25);
+  let arrayOf25 = _.chunk(data, 25);  
   asyncEvery(arrayOf25, (batch) => {
-    dynamodb.batchWriteItem({ RequestItems: { 'stock-table': batch }}, (err, _) => {
-      if (err) console.log(err)
-      else console.log('batch done')
-    })
+    if (!batch.includes(undefined)) {
+      dynamodb.batchWriteItem({ RequestItems: { 'stock-table': batch }}, (err, _) => {
+        if (err) console.log(err)
+        else console.log('batch done')
+      })
+    } else console.log('market are closed')
   })
 }
 
@@ -94,7 +96,7 @@ const writeToDatabase = async () => {
   }
 }  
 
-
-module.exports = {
-  writeToDatabase,
-};
+writeToDatabase().then(data => console.log(data))
+// module.exports = {
+//   writeToDatabase,
+// };
