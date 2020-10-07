@@ -8,7 +8,7 @@ const app = express();
 // Routes
 app.get('/stocks/codes', (req, res) => {
   let indexesFlat = req.query.index
-  let indexes = indexesFlat && indexesFlat.split(',')
+  let indexes = indexesFlat && indexesFlat.toUpperCase().split(',')
   let result = getByIndex(indexes)
   res.send(result);
 });
