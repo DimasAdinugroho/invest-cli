@@ -1,6 +1,6 @@
-app: master
-component: express
-name: master
+app: api
+component: api
+name: api
 
 package:
   exclude:
