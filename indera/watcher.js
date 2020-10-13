@@ -1,5 +1,4 @@
 const fetch = require("node-fetch");
-const airtableAuth = "Bearer keyHmyS9AODHkZSLY";
 
 async function scrapeStockbitTrending() {
   try {

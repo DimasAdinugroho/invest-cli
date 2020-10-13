@@ -2,9 +2,6 @@ const moment = require('moment')
 const AWS = require('aws-sdk');
 const { stockDataFromDynamoDb, groupStockData } = require('../mapper/util');
 const dynamodb = new AWS.DynamoDB({
-    accessKeyId: 'AKIA3TKLMJNWM4CJMJXD',
-    secretAccessKey: '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',
-    region: 'ap-southeast-1',
     apiVersion: '2012-08-10'
 });
 
